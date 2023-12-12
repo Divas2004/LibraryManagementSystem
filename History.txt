@@ -1,0 +1,8 @@
+User_id : 1 borrowed bookname : 1 with book_id : 1
+User_id : 1 returned bookname : 1 with book_id : 1
+User_id : 1 borrowed bookname : 1 with book_id : 1
+User_id : 1 returned bookname : 1 with book_id : 1
+User_id : 1 borrowed bookname : 1 with book_id : 1
+User_id : 1 returned bookname : 1 with book_id : 1
+User_id : 1 borrowed bookname : 1 with book_id : 1
+User_id : 1 borrowed bookname : Art of War with book_id : 3
